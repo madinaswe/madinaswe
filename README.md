@@ -1,7 +1,10 @@
 # Hi, I'm Sultanbaeva Madina <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl6dXp4MDF2bXNiMHVkczh6MnFudGY3NDZmYmJlczR0czZwMnN3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qGvmdlfJ0FtBSwxqA3/giphy.gif" width="50">
 
-### Software Engineer Student
+
 ### Web Developer Student
+
+### 😊 About Me:
+- 🏫 I am a student at Muhammad al-Xorezmiy miyrasxorları.
 
 <!--
 **madinaswe/madinaswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
